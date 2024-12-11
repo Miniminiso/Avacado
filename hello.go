@@ -8,5 +8,6 @@ func main() {
 	fmt.Println("Ohana")
 	fmt.Println("family")
 	fmt.Println("qwetyy")
+	fmt.Println("air")
 
 }
