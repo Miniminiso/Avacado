@@ -9,6 +9,6 @@ func main() {
 	fmt.Println("family")
 	fmt.Println("qwetyy")
 	fmt.Println("air")
-	fmt.Println("basket")
+
 
 }
